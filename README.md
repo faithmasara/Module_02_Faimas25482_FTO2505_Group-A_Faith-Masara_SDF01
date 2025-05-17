@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Faith Masara
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -11,7 +11,7 @@
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 🔥 Looking forward to building my first real-world application and entering into tech
 
 ---
 
@@ -36,7 +36,7 @@
 - 📢 Communication Skills
 - 🎯 Problem-Solving
 - 🚀 Adaptability
-
+-🎨  creativeness
 ---
 
 ## 📌 Projects
@@ -61,21 +61,21 @@ Here are some of my milestone projects (to be updated as I progress!):
 - 🚀 Get comfortable using Git and GitHub
 - 🎨 Learn HTML, CSS, and JavaScript
 - 💡 Build real-world projects and collaborate with others
-
+-    be able to understand and grasps different coding languages
 ---
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/faithmasara)  
+[![Faith Masara](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+📧 Email: [faithmasara11@gmail.com](mailto:faithmasara11@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
 💡 I love learning new things and can't wait to build my first website!
-
+🏆 i love being challenged and trying new things
 ---
 
 ## 🏆 GitHub Stats
